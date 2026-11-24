@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* display: flex; */
+    background-color: darkturquoise;
+    width: fit-content;
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 5px 10px;
+    color: aqua;
+    background-color:cornflowerblue ;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hotpink;
+}
+
